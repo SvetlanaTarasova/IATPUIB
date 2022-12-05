@@ -1,13 +1,3 @@
----
-title: "Основы обработки даных с помощью R"
-author: "Svetlana Tarasova"
-output: html_document
-date: "2022-10-19"
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 ### Цель работы
 
 1. Развить практические навыки использования языка программирования R для обработки данных
